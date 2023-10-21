@@ -114,9 +114,9 @@ class FeedPost:
             
             print('')
             
-            for line in self.tags:
-                if line:
-                    print(line)
+            for nombres in self.tags:
+                    
+                print("* ", nombres)
             
             print('')
         
