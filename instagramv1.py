@@ -110,7 +110,7 @@ class FeedPost:
         
         if self.tags:
             
-            # print('The image is:')
+            print('\nTags:')
             
             print('')
             
