@@ -52,7 +52,7 @@ class FeedPost(Post):
         Position is an int
         '''
 
-        if position:
+        if position or position == 0:
     
             try:
     
